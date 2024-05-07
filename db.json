@@ -1,0 +1,59 @@
+{
+  "allVideos": [
+    {
+      "id": "9185",
+      "caption": "salaar teaser",
+      "imgURL": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202208/Prabhas_Salaar_release_date_Se_1_x.jpeg?VersionId=fYEY0WfsRe.morz7kLo4_JMD5RrERc.c",
+      "youtubeURL": "https://www.youtube.com/embed/bUR_FKt7Iso"
+    },
+    {
+      "id": "f964",
+      "caption": "avesham teaser",
+      "imgURL": "https://i.ytimg.com/vi/L0yEMl8PXnw/maxresdefault.jpg",
+      "youtubeURL": "https://www.youtube.com/embed/bUR_FKt7Iso"
+    },
+    {
+      "id": "ba8a",
+      "caption": "x men",
+      "imgURL": "https://images.bauerhosting.com/legacy/empire-tmdb/films/127585/images/ai9UKd8KownQKGIh1m5p3DuEeMm.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=1440&q=80",
+      "youtubeURL": "https://www.youtube.com/embed/COvnHv42T-A"
+    }
+  ],
+  "history": [
+    {
+      "id": "1859",
+      "caption": "salaar teaser",
+      "youtubeURL": "https://www.youtube.com/embed/9Im1q4gvk1M",
+      "timeStamp": "5/2/2024, 10:37:14 AM GMT+5:30"
+    },
+    {
+      "id": "75de",
+      "caption": "avesham teaser",
+      "youtubeURL": "https://www.youtube.com/embed/bUR_FKt7Iso",
+      "timeStamp": "5/6/2024, 9:28:08 AM GMT+5:30"
+    },
+    {
+      "id": "3f84",
+      "caption": "avesham teaser",
+      "youtubeURL": "https://www.youtube.com/embed/bUR_FKt7Iso",
+      "timeStamp": "5/6/2024, 9:58:27 AM GMT+5:30"
+    }
+  ],
+  "allCategory": [
+    {
+      "id": "96c2",
+      "categoryName": "Details",
+      "allVideos": []
+    },
+    {
+      "id": "9b6a",
+      "categoryName": "review",
+      "allVideos": []
+    },
+    {
+      "id": "f1fb",
+      "categoryName": "songs",
+      "allVideos": []
+    }
+  ]
+}
